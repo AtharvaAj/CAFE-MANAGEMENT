@@ -1,0 +1,21 @@
+<div class="row">
+@for (product of products; track product.id) {
+  <div class="col-lg-4 col-md-4  mb-5" >
+  <div class="container">
+    <div class="card">  
+
+      <a data-gallery="portfolio-gallery-app" class="glightbox"><img src={{product.img}} class="img-fluid border border-primary-subtle" alt=""></a>
+
+      
+        <div class="back-side ">
+
+        <h3 class="price "><b>Price:</b> {{product.price}}</h3>
+        <h3 class="productName">{{product.name}}</h3>
+        <button class="button">
+          <b>Add to card</b>
+      </button>
+    </div>
+   </div>
+   </div>
+  </div>
+} </div>

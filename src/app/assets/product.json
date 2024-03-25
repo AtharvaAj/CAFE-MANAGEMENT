@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Pizaa",
+        "price":150,
+        "id":1,
+        "img":"https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg"
+    },
+    {
+        "name":"Hot Coffee",
+        "price":150,
+        "id":2,
+        "img":"https://images4.alphacoders.com/133/1339862.png"
+    },
+
+    {
+        "name":"momos",
+        "price":140,
+        "id":3,
+        "img":"https://images.pexels.com/photos/18803174/pexels-photo-18803174.jpeg?cs=srgb&dl=pexels-ansh-rajput-18803174.jpg&fm=jpg"
+    },
+    {
+        "name":"french fries",
+        "price":130,
+        "id":4,
+        "img":"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg?size=626&ext=jpg&ga=GA1.1.98259409.1709078400&semt=ais"
+    },
+    {
+        "name":"burger",
+        "price":150,
+        "id":5,
+        "img":"https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name":"maagi","price":130,"id":6,"img":"https://t3.ftcdn.net/jpg/06/04/76/86/360_F_604768628_iwNfuszjXEGeTM8V5av4yjzklUhcASHS.jpg"},
+    {
+        "name":"Cold Coffee Crunch","price":300,"id":7,
+        "img":"https://images7.alphacoders.com/132/1323971.png"
+    },
+    {
+        "name":"sandwich",
+        "price":150,
+        "id":8,
+        "img":"https://images3.alphacoders.com/129/1294745.jpg"
+    },
+    {
+        "name":"cold coffee",
+        "price":170,
+        "id":8,
+        "img":"https://foodfornet.com/wp-content/uploads/Iced-Rum-Coffee-800x534.jpg"
+    }
+  
+  
+  ]

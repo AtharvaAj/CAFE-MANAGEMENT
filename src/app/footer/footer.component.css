@@ -1,0 +1,81 @@
+
+/* General styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Footer styles */
+.footer-area {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+}
+
+.footer-box {
+    margin-bottom: 30px;
+}
+
+.widget-title {
+    color: #fff;
+}
+
+.pages ul {
+    list-style: none;
+    padding: 0;
+}
+
+.pages a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* About us widget styles */
+.about-widget p {
+    color: #ddd;
+}
+
+/* Get in Touch widget styles */
+.get-in-touch ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Copyright styles */
+.copyright {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.social-icons ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .col-lg-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .text-right {
+        text-align: center !important;
+    }
+}
